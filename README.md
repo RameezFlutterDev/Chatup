@@ -1,16 +1,26 @@
-# chatup
+# ChatUp 💬🔥
 
-A new Flutter project.
+ChatUp is a clean and modern real-time chat application built using **Flutter** and **Firebase**. Designed with smooth UI/UX, it's optimized for both mobile and web platforms, using state management and Firestore streams for real-time messaging.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication (Email/Password)
+- 💬 Real-time messaging with Firestore
+- 📨 New message counter using StreamBuilder
+- 🎨 Beautiful purple-themed UI
+- 📲 Mobile-first design with web support
+- 🗂 Organized codebase using best Flutter practices
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter & Dart
+- Firebase Auth
+- Firebase Cloud Firestore
+- Firebase Cloud Messaging (optional for push)
+- StreamBuilder & Firestore Streams
+- State Management (Provider)
+- UI/UX with Material Design & custom widgets
